@@ -73,10 +73,14 @@ WeiToken协议定义为uri格式
 weitoken://${action}?${params}
 
 
-标识	           描述	            备注     
-weitoken://	    协议的标识	
-action	        当前要执行的动作	  request 、login、update、register
+标识	           描述	            备注          
+
+weitoken://	    协议的标识	
+
+action	        当前要执行的动作	  request 、login、update、register
+
 params	        当前动作的参数	
+
 
 
 ### action说明：
